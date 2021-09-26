@@ -10,8 +10,8 @@ pakietów APT.
 2. Dostęp do konta użytkownika *root*
 
 **Instalacja**
-1. # git clone https://github.com/xf0r3m/cdlcd.git
-2. # chmod +x customDebianLiveCD.sh
+1. $ git clone https://github.com/xf0r3m/cdlcd.git
+2. $ chmod +x customDebianLiveCD.sh
 
 **Konfiguracja**
 1. W pliku customDebianLiveCD.sh:
